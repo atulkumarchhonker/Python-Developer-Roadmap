@@ -1,4 +1,4 @@
-# Python Super Guide
+# Python Guide
 
 ## Basics
 | Topic                            | Video                                                  |
