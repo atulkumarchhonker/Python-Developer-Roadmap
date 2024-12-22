@@ -36,6 +36,13 @@
 | Projects using Fast API | [YouTube Playlist](https://www.youtube.com/watch?v=Uw4FPr-dD7Q&list=PLEt8Tae2spYnHy378vMlPH--87cfeh33P) |
 
 ## Follow for More
+| Plateform               | Channel                                                                                                   |
+|-------------------------|-----------------------------------------------------------------|
+| Youtube                 | [YouTube](https://www.youtube.com/@atulsinghchhonker)           |
+| Linkedin                | [Linkedin](https://www.linkedin.com/in/atul-kumar-webdeveloper) |
+| Instagram               | [Instagram]( https://www.instagram.com/atulsinghchhonker/)      |
+
+## Follow for More
 | [Youtube]_( https://www.youtube.com/@atulsinghchhonker ) |
 | [Linkedin]_( https://www.linkedin.com/in/atul-kumar-webdeveloper ) |
 | [Instagram]_( https://www.instagram.com/atulsinghchhonker/ ) |
