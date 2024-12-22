@@ -42,8 +42,3 @@
 | Linkedin                | [Linkedin](https://www.linkedin.com/in/atul-kumar-webdeveloper) |
 | Instagram               | [Instagram]( https://www.instagram.com/atulsinghchhonker/)      |
 
-## Follow for More
-| [Youtube]_( https://www.youtube.com/@atulsinghchhonker ) |
-| [Linkedin]_( https://www.linkedin.com/in/atul-kumar-webdeveloper ) |
-| [Instagram]_( https://www.instagram.com/atulsinghchhonker/ ) |
-
